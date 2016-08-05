@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-//测试提交
+//测试提交2
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
