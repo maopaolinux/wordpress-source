@@ -1,0 +1,220 @@
+/* ----------------------------------------------------------------
+    Colors
+
+    Replace the HEX Code with your Desired Color HEX
+-----------------------------------------------------------------*/
+
+
+::selection { background: #00A0E9; }
+
+::-moz-selection { background: #00A0E9; }
+
+::-webkit-selection { background: #00A0E9; }
+
+
+a,
+h1 > span:not(.nocolor),
+h2 > span:not(.nocolor),
+h3 > span:not(.nocolor),
+h4 > span:not(.nocolor),
+h5 > span:not(.nocolor),
+h6 > span:not(.nocolor),
+.header-extras li .he-text span,
+#primary-menu > ul > li:hover a,
+#primary-menu > ul > li.current a,
+#primary-menu > div > ul > li:hover a,
+#primary-menu > div > ul > li.current a,
+#top-cart a:hover,
+.top-cart-action span.top-checkout-price,
+.breadcrumb a:hover,
+.entry-title h2 a:hover,
+.entry-meta li a:hover,
+.post-timeline .entry:hover .entry-timeline,
+.post-timeline .entry:hover .timeline-divider,
+.ipost .entry-title h3 a:hover,
+.ipost .entry-title h4 a:hover,
+.spost .entry-title h4 a:hover,
+.mpost .entry-title h4 a:hover,
+.comment-content .comment-author a:hover,
+.product-title h3 a:hover,
+.single-product .product-title h2 a:hover,
+.product-price ins,
+.single-product .product-price,
+.feature-box.fbox-border .fbox-icon i,
+.feature-box.fbox-border .fbox-icon img,
+.feature-box.fbox-plain .fbox-icon i,
+.feature-box.fbox-plain .fbox-icon img,
+.process-steps li.active h5,
+.process-steps li.ui-tabs-active h5,
+.team-title span,
+.pricing-box.best-price .pricing-price,.single_nav .next:hover,
+.btn-link,.comment-reply-link:hover,.single_nav .next:hover a,.single_nav .next:hover a,
+.dark .post-timeline .entry:hover .entry-timeline,.entry-meta .fontResizer a,
+.dark .post-timeline .entry:hover .timeline-divider,.entry-title h2 i { color: #00A0E9; }
+.entry-title-61 a:hover {color: #00A0E9;}
+.entry-title-61 span {color: #B4B4B4!important;}
+.pos-tag a{background-color: #00A0E9;}
+.tab-hd-con.current a {color: #00A0E9;}
+.tab-bd li a:hover {color: #00A0E9;}
+.detail-1 {color: #00A0E9;}
+.entry-content-link {background-color: #00A0E9;}
+.explain ul li p [class*="fa-"]  {background-color: #00A0E9;}
+.explain ul li .title {color: #00A0E9;}
+.top-first li a:hover {color: #00A0E9;}
+.nav > li > a:hover, .nav > li > a:focus {color: #00A0E9 !important;}
+.pagination ul > li.next-page > a {background-color: #00A0E9;color: #fff;}
+.dmsembed h10 a:hover {color: #00A0E9;}
+.single-comments a {background-color: #00A0E9;}
+.article-tags a {background-color: #00A0E9;}
+#gotoTop {background-color: #00A0E9;}
+.entry-meta span a:hover {color: #00A0E9;}
+.label-danger {background-color: #00A0E9;}
+.more-link:hover {color: #00A0E9;}
+.button-blue {background-color: #00A0E9;}
+.button.button-3d:hover {background-color: #464646 !important;opacity: 0.9;}
+.comt-author {color: #00A0E9;}
+.pricex {color: #00A0E9;}
+.taourl a {background: #00A0E9!important;color: #fff;border: 1px solid #00A0E9!important;}
+#download span.on, #download span.on:hover {background-color: #00A0E9;}
+#download a.demo-link:hover, #download a.download-link:hover, #download span:hover {background-color: #00A0E9;}
+.single-description span {color: #00A0E9;}
+ul.tab-nav li.ui-tabs-active a {background-color: #00A0E9;}
+.p_tags a:hover{opacity: 1;filter:alpha(opacity=100);color: #fff;background-color: #00A0E9;}
+.widget_search #searchsubmit {background-color: #00A0E9;}
+.owl-theme .owl-dots .owl-dot span {background-color: #00A0E9;}
+.tab-bd li :hover{color: #00A0E9;}
+.tab-bd-em{padding: 5px;background: #ECECEC;margin-right: 10px;}
+.tab-bd li:hover .tab-bd-em{color : #fff;background: #00A0E9;}
+.entry-meta-pagas li a:hover {color: #00A0E9;}
+#comments b {color: #00A0E9;}
+.commentnav .current, .commentnav a:hover {background-color: #00A0E9;}
+.commentnav a{color: #555!important;}
+.commentnav .current, .commentnav .page-numbers {color: #fff;}
+.post-navigation div {color: #00A0E9;}
+.color,
+#primary-menu ul ul li:hover > a,
+#primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover,
+.top-cart-item-desc a:hover,
+.faqlist li a:hover,
+.tagcloud a:hover,
+.dark .top-cart-item-desc a:hover,
+.iconlist-color li i,
+.dark.overlay-menu #header-wrap:not(.not-dark) #primary-menu > ul > li:hover > a,
+.dark.overlay-menu #header-wrap:not(.not-dark) #primary-menu > ul > li.current > a,
+.overlay-menu #primary-menu.dark > ul > li:hover > a,
+.overlay-menu #primary-menu.dark > ul > li.current > a,.toplist h3,
+.widget_nav_menu li a:hover,
+.widget_links li a:hover,
+.widget_meta li a:hover,
+.widget_archive li a:hover,
+.widget_recent_entries li a:hover,
+.widget_categories li a:hover,
+#primary-menu .current-menu-item a,
+#primary-menu .current-post-ancestor a,
+#primary-menu .current-menu-ancestor a,.widget_pages li a:hover,
+.widget_rss li a:hover,
+.widget_recent_comments li a:hover,
+#primary-menu ul ul li:hover > a ,#primary-menu.style-6 > div > ul > li > a:hover,#primary-menu.style-tmt > ul > li:hover > a{ color: #00A0E9 !important; }
+
+
+.bgcolor,
+.button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover,
+.process-steps li.active a,
+.process-steps li.ui-tabs-active a,
+.sidenav > .ui-tabs-active > a,
+.sidenav > .ui-tabs-active > a:hover,
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus { background-color: #00A0E9 !important; }
+
+#primary-menu.style-4 > ul > li:hover > a,
+#primary-menu.style-4 > ul > li.current > a,
+.top-cart-item-image:hover,
+.post-timeline .entry:hover .entry-timeline,
+.post-timeline .entry:hover .timeline-divider,
+.cart-product-thumbnail img:hover,
+.feature-box.fbox-outline .fbox-icon,
+.feature-box.fbox-border .fbox-icon,
+.dark .top-cart-item-image:hover,
+.dark .post-timeline .entry:hover .entry-timeline,
+.dark .post-timeline .entry:hover .timeline-divider,
+.dark .cart-product-thumbnail img:hover,.widget_search #searchsubmit,#download span.on,#download span.on:hover,#download a.demo-link:hover,#download a.download-link:hover,#download span:hover,
+.heading-block.border-color:after { border-color: #00A0E9; }
+
+.top-links ul ul,
+.top-links ul div.top-link-section,
+#primary-menu ul ul,
+#primary-menu ul li .mega-menu-content,
+#primary-menu.style-6 > ul > li > a:after,
+#primary-menu.style-6 > ul > li.current > a:after,
+#top-cart .top-cart-content,
+.fancy-title.title-border-color:before,
+.dark #primary-menu:not(.not-dark) ul ul,
+.dark #primary-menu:not(.not-dark) ul li .mega-menu-content,
+#primary-menu.dark ul ul,
+#primary-menu.dark ul li .mega-menu-content,
+.dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
+#primary-menu.dark ul li .mega-menu-content.style-2,.toplist h3:after,
+.dark #top-cart .top-cart-content,.pace .pace-activity { border-top-color: #00A0E9; }
+
+#page-menu.dots-menu nav li .dots-menu-caption:after,
+.title-block,.pace .pace-activity { border-left-color: #00A0E9; }
+
+.title-block-right { border-right-color: #00A0E9; }
+
+.fancy-title.title-bottom-border h1,
+.fancy-title.title-bottom-border h2,
+.fancy-title.title-bottom-border h3,
+.fancy-title.title-bottom-border h4,
+.fancy-title.title-bottom-border h5,.more-link-two,
+.fancy-title.title-bottom-border h6,.cms-more-link,
+#primary-menu.style-tmt .current-menu-item a,
+#primary-menu.style-tmt .current-post-ancestor a,
+#primary-menu.style-tmt .current-menu-ancestor a  { border-bottom-color: #00A0E9; }
+
+.border-color,
+.process-steps li.active a,
+.process-steps li.ui-tabs-active a,
+.tagcloud a:hover,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus { border-color: #00A0E9 !important; }
+
+.fbox-effect.fbox-dark .fbox-icon i:after,
+.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #00A0E9; }
+
+.fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
+.fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i,
+.dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
+.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #00A0E9; }
+
+#primary-menu.style-6 .current-menu-item a,
+#primary-menu.style-6 .current-post-ancestor a,.post-like a.done, .post-like a:hover,
+#primary-menu.style-6 .current-menu-ancestor a{background-color: #393939;}
+@media only screen and (max-width: 991px) {
+
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a,
+    body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a,
+    #primary-menu ul ul li:hover > a,
+    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a,
+    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #00A0E9 !important; }
+
+    #page-menu nav { background-color: #00A0E9; }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    #portfolio-filter li a:hover { color: #00A0E9; }
+
+}
